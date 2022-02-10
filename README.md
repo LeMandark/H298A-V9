@@ -5,6 +5,6 @@ H298AV9 için root şifresi alma
 
 2 - all.sh dosyasını ve buradaki resimleri al masaüstüne kopyala
 
-3 - sudo bash Desktop/all.sh 
+3 - CTRL+Alt+t yap, sudo bash Desktop/all.sh çalıştır. Ekrandaki yönergeleri takip et.
 
 4 - Anlamadıysan Bonus u elleme.
